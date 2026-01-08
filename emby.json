@@ -1,7 +1,8 @@
 {
   "name": "emby",
   "description": "当前版本日期为20260108",
-  "icons": [
+  "icons": 
+  [
     {
       "name": "105",
       "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/105.png"
@@ -21,7 +22,6 @@
     {
       "name": "UHD",
       "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/UHD.png"
-    }
-      
+    }  
   ]
 }
