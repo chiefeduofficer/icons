@@ -1,0 +1,27 @@
+{
+  "name": "emby",
+  "description": "当前版本日期为20260108",
+  "icons": [
+    {
+      "name": "105",
+      "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/105.png"
+    },
+    {
+      "name": "emby",
+      "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/emby.png"
+    },
+    {
+      "name": "lily",
+      "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/lily.png"
+    },
+    {
+      "name": "shrek",
+      "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/shrek.png"
+    },
+    {
+      "name": "UHD",
+      "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/UHD.png"
+    }
+      
+  ]
+}
