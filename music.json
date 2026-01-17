@@ -1,0 +1,11 @@
+{
+  "name": "music",
+  "description": "当前版本日期为20260117",
+  "icons": 
+  [
+    {
+      "name": "未响",
+      "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/music/weixiang.png"
+    }
+  ]
+}
