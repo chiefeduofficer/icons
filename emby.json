@@ -1,6 +1,6 @@
 {
   "name": "emby",
-  "description": "当前版本日期为20260324",
+  "description": "当前版本日期为20260403",
   "icons": 
   [
     {
@@ -26,6 +26,10 @@
     {
       "name": "nyamedia",
       "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/nyamedia.png"
+    },
+    {
+      "name": "Ok",
+      "url": "https://raw.githubusercontent.com/chiefeduofficer/icons/refs/heads/main/emby/Ok.png"
     },
     {
       "name": "shrek",
